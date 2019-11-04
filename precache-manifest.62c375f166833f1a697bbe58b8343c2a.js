@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "06da067c327a8f783ee0d49b662ce5da",
+    "revision": "a449653cc12f79d0e21d3e080bfd0b4f",
     "url": "/pare-down/index.html"
   },
   {
-    "revision": "df0e1c0eb33403769c4a",
+    "revision": "5fb2b531299e81e00018",
     "url": "/pare-down/static/css/main.f4d58520.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/pare-down/static/js/2.72760a56.chunk.js"
   },
   {
-    "revision": "df0e1c0eb33403769c4a",
-    "url": "/pare-down/static/js/main.9fc81ab0.chunk.js"
+    "revision": "5fb2b531299e81e00018",
+    "url": "/pare-down/static/js/main.26db62f5.chunk.js"
   },
   {
     "revision": "0ca0e7eb6e1146cdeac7",
