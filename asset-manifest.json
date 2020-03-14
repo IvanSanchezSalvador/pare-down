@@ -1,21 +1,32 @@
 {
   "files": {
-    "main.css": "/static/css/main.7704e56b.chunk.css",
-    "main.js": "/static/js/main.46ae206b.chunk.js",
-    "main.js.map": "/static/js/main.46ae206b.chunk.js.map",
+    "main.css": "/static/css/main.692115fa.chunk.css",
+    "main.js": "/static/js/main.46396535.chunk.js",
+    "main.js.map": "/static/js/main.46396535.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.68f07ab6.js",
     "runtime-main.js.map": "/static/js/runtime-main.68f07ab6.js.map",
-    "static/js/2.89c30b4b.chunk.js": "/static/js/2.89c30b4b.chunk.js",
-    "static/js/2.89c30b4b.chunk.js.map": "/static/js/2.89c30b4b.chunk.js.map",
+    "static/js/2.69f98ad8.chunk.js": "/static/js/2.69f98ad8.chunk.js",
+    "static/js/2.69f98ad8.chunk.js.map": "/static/js/2.69f98ad8.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.b03e2fe382a16ad3d3ec7f699d6585b3.js": "/precache-manifest.b03e2fe382a16ad3d3ec7f699d6585b3.js",
+    "precache-manifest.f4264eabc5cacc2ed7b15d27f40a191f.js": "/precache-manifest.f4264eabc5cacc2ed7b15d27f40a191f.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.7704e56b.chunk.css.map": "/static/css/main.7704e56b.chunk.css.map"
+    "static/css/main.692115fa.chunk.css.map": "/static/css/main.692115fa.chunk.css.map",
+    "static/media/apple_music.png": "/static/media/apple_music.d69e2667.png",
+    "static/media/bubbles.svg": "/static/media/bubbles.8268741a.svg",
+    "static/media/circuit-board.svg": "/static/media/circuit-board.36a907a3.svg",
+    "static/media/cover1.jpg": "/static/media/cover1.1bde0dcf.jpg",
+    "static/media/cover2.jpg": "/static/media/cover2.eaa6c1ab.jpg",
+    "static/media/cover3.jpg": "/static/media/cover3.a7829810.jpg",
+    "static/media/cover4.jpg": "/static/media/cover4.165ba039.jpg",
+    "static/media/cover5.jpg": "/static/media/cover5.874c7988.jpg",
+    "static/media/deezer.jpg": "/static/media/deezer.9e707321.jpg",
+    "static/media/spotify.png": "/static/media/spotify.cc4e2784.png",
+    "static/media/wave.svg": "/static/media/wave.880b8958.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.68f07ab6.js",
-    "static/js/2.89c30b4b.chunk.js",
-    "static/css/main.7704e56b.chunk.css",
-    "static/js/main.46ae206b.chunk.js"
+    "static/js/2.69f98ad8.chunk.js",
+    "static/css/main.692115fa.chunk.css",
+    "static/js/main.46396535.chunk.js"
   ]
 }
